@@ -38,16 +38,16 @@ class Julian(JuliankaGaray):
    
    def __init__(self):
      
-      self.name = "Julian Garay"
+      self.name = "Julian  Camilo Garay Pulido"
       self.age = 29
-      self.role = "Estudiante"
+      self.role = "Estudiante ingeniería de sistemas", "Tecnólogo en analisis y desarrollo de software", "Teconólo en mecatrónica", "tecnólogo en diseño gráfico"
 
       self.TOOLS = {
           "LenguajesDeProgramacion" : ("Python", "Java", ".NET", "PHP", "C", "C++"),
           "LenguajesDeMarcado" : ("HTML", "React", "JavaScript", "CSS"),
           "OtrosLenguajes" : ("JSON", "SQL"),
           "Editores" : ("VsCode", "Sublime", "PyCharm", "NetBeans"),
-          "OtrasTools" : ("Arduino", "Inventor", "AutoCAD", "Blender", "Illustrator", "Photoshop", "Premiere", "After Effects")
+          "LenguajesDeDiseño" : ("Arduino", "Inventor", "AutoCAD", "Blender", "Illustrator", "Photoshop", "Premiere", "After Effects")
       }
 
       self.INTERESTS = [
