@@ -1,6 +1,6 @@
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of julian garay">
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://avatars.githubusercontent.com/u/25382167?v=4" alt="Avatar photo of julian garay">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=3ADFD5&center=true&vCenter=true&width=500&lines=Hola%2C+Soy+Julian+Garay;Bienvenid@+a+mi+perfil;te+cuento+Un+poco+sobre+mi;Tecnólogo+Mecatrónico;Analista+y+desarrollador+de+software;También+soy+diseñador+gráfico;Apasionado+de+la+naturaleza;Un+Alma+vieja+Con+corazón+joven;Amante+del+arte;Buscador+de+emociones;Guitarrista,+violinista+y+más;" alt="Typing SVG" /></a>
