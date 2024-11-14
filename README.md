@@ -16,7 +16,7 @@ Hola soy Julian Garay Pulido
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<h2>Sobre mi 😃</h2>
+<h2>Mis Skylls😃</h2>
 <p align="left">
 <a href="https://linkedin.com/in/julian-camilo-a5099417b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="
                                                                            "/></a>
@@ -95,6 +95,8 @@ class Julian(JuliankaGaray):
 
 
 <p align="left">
+<h2>Resumen Sobre Mi😃</h2>
+	
 🎓 TECNÓLOGO EN DISEÑO GÁFICO Y MECATRÓNICA, ESTUDIANTE DE ÚLTIMOS SEMESTRES DE INGENIERA DE SISTEMAS.
 
 🎥 unos cuantos años de experiencia en el medio cinematrográfico enfocado en la parte técnica y mantenimeinto de equipos.
