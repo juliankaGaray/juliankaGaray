@@ -56,6 +56,10 @@ Hola soy Julian Garay Pulido
 </p>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+
+
+
+
 ## Contactame:
 <p align="left">
   <a href="https://www.linkedin.com/in/julian-camilo-a5099417b/" target="blank"><img align="center"
@@ -78,3 +82,8 @@ Hola soy Julian Garay Pulido
   <img height="180em" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliankaGaray&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </p>
+ <!-- GRàfica esaditica -->
+<h2 align="center">📈 Grafico de Contribuciones 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliankaGaray&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
