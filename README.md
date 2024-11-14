@@ -16,7 +16,7 @@ Hola soy Julian Garay Pulido
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<h2>Mis Skylls😃</h2>
+<h2>Mis Skills😃</h2>
 <p align="left">
 <a href="https://linkedin.com/in/julian-camilo-a5099417b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="
                                                                            "/></a>
