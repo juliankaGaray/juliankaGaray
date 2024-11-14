@@ -33,9 +33,9 @@ Hola soy Julian Garay Pulido
 
 
 <p align="left">
-🎓 TECNÓLOGO EN DISEÑO GÁFICO Y MECATRÓNICA, ESTUDIANTE DE ULTIMOS SEMESTRE DE INGENIERA DE SISTEMAS.
+🎓 TECNÓLOGO EN DISEÑO GÁFICO Y MECATRÓNICA, ESTUDIANTE DE ÚLTIMOS SEMESTRES DE INGENIERA DE SISTEMAS.
 
-🎥 unos cunatos años de experiencia en el medio cinematrográfico enfocado en la parte técnica y mantenimeinto de equipos.
+🎥 unos cuantos años de experiencia en el medio cinematrográfico enfocado en la parte técnica y mantenimeinto de equipos.
 
 💻 Experiencia en diseño gráfico enfocado en la industria gráifica y la animación.
 
