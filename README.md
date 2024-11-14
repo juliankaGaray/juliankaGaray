@@ -39,11 +39,11 @@ Hola soy Julian Garay Pulido
 
 💻 Experiencia en diseño gráfico enfocado en la industria gráifica y la animación.
 
-📝 
 
 
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+
+<h2 >📝 Tecnologías conocidas👨🏻‍💻</h2>
 
 <p align="left"> 
 <p align="left">
