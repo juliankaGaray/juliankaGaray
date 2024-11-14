@@ -93,7 +93,7 @@ class Julian(JuliankaGaray):
 
 <!-- to draw horizontal line -->
 
-
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <p align="left">
 <h2>Resumen Sobre Mi😃</h2>
 	
@@ -110,7 +110,6 @@ class Julian(JuliankaGaray):
 <h2 >📝 Tecnologías conocidas👨🏻‍💻</h2>
 
 
-
 <p align="left"> 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -120,7 +119,7 @@ class Julian(JuliankaGaray):
 <br>
   </a>
 </p>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 
 
