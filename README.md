@@ -16,7 +16,7 @@ Hola soy Julian Garay Pulido
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<h2>Mis Skills😃</h2>
+
 <p align="left">
 <a href="https://linkedin.com/in/julian-camilo-a5099417b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="
                                                                            "/></a>
@@ -32,61 +32,7 @@ Hola soy Julian Garay Pulido
 <!--Intro start-->
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-```python
-class Julian(JuliankaGaray):
-   """Desarrollador al que le encanta aprender más sobre Ciencias y Tecnologías Informáticas."""
-   
-   def __init__(self):
-     
-      self.name = "Julian  Camilo Garay Pulido"
-      self.age = 29
-      self.role = "Estudiante ingeniería de sistemas", "Tecnólogo en analisis y desarrollo de software", "Teconólo en mecatrónica", "tecnólogo en diseño gráfico"
 
-      self.TOOLS = {
-          "LenguajesDeProgramacion" : ("Python", "Java", ".NET", "PHP", "C", "C++"),
-          "LenguajesDeMarcado" : ("HTML", "React", "JavaScript", "CSS"),
-          "OtrosLenguajes" : ("JSON", "SQL"),
-          "Editores" : ("VsCode", "Sublime", "PyCharm", "NetBeans"),
-          "LenguajesDeDiseño" : ("Arduino", "Inventor", "AutoCAD", "Blender", "Illustrator", "Photoshop", "Premiere", "After Effects")
-      }
-
-      self.INTERESTS = [
-         "Ingeniería de sistemas",
-         "Desarrollo de Software",
-         "Electrónica, Electricidad, Mecatrónica",
-         "Arte gráfico, ilustración, Edición de video"
-      ]
-
-      self.WORK_DONE = False  
-
-   def use(self, tool):
-      """Usar una de mis herramientas o usar varias."""
-      if tool in self.TOOLS:
-          return self.TOOLS[tool]
-      else:
-          return "Herramienta no encontrada"
-
-   def work(self, tool):
-      """Realizar trabajo hasta que se complete."""
-      while not self.WORK_DONE:
-         # Mantener el trabajo
-         print(f"Trabajando con {tool}...")
-         self.use(tool)  # Usar la herramienta
-         self.WORK_DONE = True 
-
-      return self.WORK_DONE
-
-   def __len__(self):
-      """Fun Fact"""
-      return 175  # cm
-
-   def __repr__(self):
-      """Representación en forma de cadena"""
-      return f"{self.name} tiene {self.age} años,  {self.role}"
-
-
-
-```
 
 ---
 
@@ -153,5 +99,61 @@ class Julian(JuliankaGaray):
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliankaGaray&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
+<h2>Mi momento más normal 😃</h2>
 
+```python
+class Julian(Garay):
+   """Desarrollador al que le encanta aprender más sobre Ciencias y Tecnologías Informáticas."""
+   
+   def __init__(self):
+     
+      self.name = "Julian  Camilo Garay Pulido"
+      self.age = 29
+      self.role = "Estudiante ingeniería de sistemas", "Tecnólogo en analisis y desarrollo de software", "Teconólo en mecatrónica", "tecnólogo en diseño gráfico"
+
+      self.TOOLS = {
+          "LenguajesDeProgramacion" : ("Python", "Java", ".NET", "PHP", "C", "C++"),
+          "LenguajesDeMarcado" : ("HTML", "React", "JavaScript", "CSS"),
+          "OtrosLenguajes" : ("JSON", "SQL"),
+          "Editores" : ("VsCode", "Sublime", "PyCharm", "NetBeans"),
+          "LenguajesDeDiseño" : ("Arduino", "Inventor", "AutoCAD", "Blender", "Illustrator", "Photoshop", "Premiere", "After Effects")
+      }
+
+      self.INTERESTS = [
+         "Ingeniería de sistemas",
+         "Desarrollo de Software",
+         "Electrónica, Electricidad, Mecatrónica",
+         "Arte gráfico, ilustración, Edición de video"
+      ]
+
+      self.WORK_DONE = False  
+
+   def use(self, tool):
+      """Usar una de mis herramientas o usar varias."""
+      if tool in self.TOOLS:
+          return self.TOOLS[tool]
+      else:
+          return "Herramienta no encontrada"
+
+   def work(self, tool):
+      """Realizar trabajo hasta que se complete."""
+      while not self.WORK_DONE:
+         # Mantener el trabajo
+         print(f"Trabajando con {tool}...")
+         self.use(tool)  # Usar la herramienta
+         self.WORK_DONE = True 
+
+      return self.WORK_DONE
+
+   def __len__(self):
+      """Fun Fact"""
+      return 175  # cm
+
+   def __repr__(self):
+      """Representación en forma de cadena"""
+      return f"{self.name} tiene {self.age} años,  {self.role}"
+
+
+
+```
 
