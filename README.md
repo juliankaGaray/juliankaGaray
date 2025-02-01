@@ -108,7 +108,7 @@ class Julian(Garay):
    def __init__(self):
      
       self.name = "Julian  Camilo Garay Pulido"
-      self.age = 29
+      self.age = 28
       self.role = "Estudiante ingeniería de sistemas", "Tecnólogo en analisis y desarrollo de software", "Teconólo en mecatrónica", "tecnólogo en diseño gráfico"
 
       self.TOOLS = {
